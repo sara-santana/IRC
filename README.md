@@ -16,5 +16,5 @@ CHARGE - cobrar um serviço a um local;
 	inputs: identificador do serviço e preço
 END_SERVICE - terminal um servico;
 	input: identificador de um serviço
-EXIT - terminal a coneção com o servidor.
+EXIT - termina a coneção com o servidor.
 
